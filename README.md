@@ -1,11 +1,12 @@
 <p align="center"> <img src="https://media.discordapp.net/attachments/962006170892111942/1038347035541250079/Anime_Fantasy_Sky_Background_Banner.jpg" /> </p>
 <h1 align="center">Hi 👋, I'm Paperbag Dev!</h1>
 <h3 align="center">A passionate programmer and a learner</h3>
-<img align="right" alt="Coding" width="250" src="https://media.discordapp.net/attachments/962006170892111942/1038351358950121503/coding-anime.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paper-bag-dev&label=Profile%20views&color=0e75b6&style=flat" alt="paper-bag-dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paper-bag-dev&label=Profile%20views&color=0e75b6&style=flat" alt="paper-bag-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paper-bag-dev" alt="paper-bag-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paper-bag-dev" alt="paper-bag-dev" /></a> </p>
+
+<img align="right" alt="Coding" width="340" src="https://media.discordapp.net/attachments/962006170892111942/1038351358950121503/coding-anime.gif">
 
 - 🔭 I’m currently working on **a Pomodoro App Project🍅**
 
