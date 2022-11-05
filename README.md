@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paper-bag-dev&show_icons=true&locale=en&layout=compact" alt="paper-bag-dev" /></p>
 
-<p><img align="right" width="340" src="https://github-readme-streak-stats.herokuapp.com/?user=paper-bag-dev&" alt="paper-bag-dev" /></p>
+<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=paper-bag-dev&" alt="paper-bag-dev" /></p>
