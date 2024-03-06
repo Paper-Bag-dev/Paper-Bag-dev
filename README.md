@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="340" src="https://media.discordapp.net/attachments/962006170892111942/1038351358950121503/coding-anime.gif">
 
-- 🔭 I’m currently working on **a Pomodoro App Project🍅**
+- 🔭 I’m currently working on **web based projets**
 
-- 🌱 I’m currently learning **Python, Pandas, Tkinter, Data Structures and digital Art**
+- 🌱 I’m currently learning **AI and webdev**
 
 - 📫 How to reach me **vikalpsh1234@gmail.com**
 
