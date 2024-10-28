@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 100%; height: 10rem;">
   <a href="https://github.com/Paper-Bag-dev/Paper-Bag-dev/blame/main/Welcome.svg">
     <img src="Welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
