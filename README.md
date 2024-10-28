@@ -1,10 +1,9 @@
 
 
-<div style="width: 100%;">
-   <a href="https://github.com/Paper-Bag-dev/Paper-Bag-dev/blame/main/welcome.svg">
-      <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+[![Basic hello](hello-basic.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-basic.svg)
+
+[![Title](Welcome.svg)](https://github.com/Paper-Bag-dev/Paper-Bag-dev/blame/main/Welcome.svg)
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=paper-bag-dev&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
 </a>
