@@ -1,6 +1,7 @@
 
 
----
+<div style="width: 100%; height: 2px; background-color: red;"></div>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=paper-bag-dev&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
 </a>
