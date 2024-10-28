@@ -1,6 +1,6 @@
 <div style="width: 100%; height: 20%;">
-  <a href="https://github.com/Paper-Bag-dev/Paper-Bag-dev/blame/main/Welcome.svg">
-    <img src="Welcome.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/Paper-Bag-dev/Paper-Bag-dev/blame/main/animated-gif.gif">
+    <img src="animated-gif" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
