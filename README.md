@@ -1,7 +1,3 @@
-
-
-[![Basic hello](hello-basic.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-basic.svg)
-
 [![Title](Welcome.svg)](https://github.com/Paper-Bag-dev/Paper-Bag-dev/blame/main/Welcome.svg)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
