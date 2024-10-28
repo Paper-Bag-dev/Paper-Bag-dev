@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <!-- GitHub Profile Trophy on the left -->
     <td>
